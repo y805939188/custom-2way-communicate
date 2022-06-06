@@ -1,8 +1,14 @@
-b# 使用非 WebSocket 的方式实现双向即时通信
+# 使用非 WebSocket 的方式实现双向即时通信
 ---
 > 参考 k8s 的 list-watch 机制
 
-体验方式:</br>
+---
+# 相关连接
+[从 0 实现一个非 websocket 版的双向通信](https://zhuanlan.zhihu.com/p/358687636)</br>
+
+---
+
+# 体验方式:
 > 1. npm install
 > 2. npm intall -g http-server
 > 3. http-server -p ${your-port} ./
